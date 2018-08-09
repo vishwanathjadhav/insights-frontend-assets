@@ -436,11 +436,6 @@
             "symbolic_name": "lspci"
         },
         {
-            "command": "/sbin/lspci -k",
-            "pattern": [],
-            "symbolic_name": "lspci_kernel"
-        },
-        {
             "command": "/usr/sap/hostctrl/exe/lssap",
             "pattern": [],
             "symbolic_name": "lssap"
@@ -4327,15 +4322,6 @@
                         "oracle",
                         "tnslsnr"
                     ]
-                }
-            ]
-        },
-        "lspci": {
-            "host": [
-                {
-                    "archive_file_name": "/insights_commands/lspci",
-                    "command": "/sbin/lspci",
-                    "pattern": []
                 }
             ]
         },
