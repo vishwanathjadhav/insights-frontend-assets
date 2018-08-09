@@ -431,7 +431,7 @@
             "symbolic_name": "lsof"
         },
         {
-            "command": "/sbin/lspci",
+            "command": "/sbin/lspci -k",
             "pattern": [],
             "symbolic_name": "lspci"
         },
