@@ -4368,6 +4368,15 @@
                 }
             ]
         },
+        "lspci": {
+            "host": [
+                {
+                    "archive_file_name": "/insights_commands/lspci",
+                    "command": "/sbin/lspci",
+                    "pattern": []
+                }
+            ]
+        },
         "lssap": {
             "host": [
                 {
