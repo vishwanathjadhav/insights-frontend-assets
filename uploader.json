@@ -351,7 +351,7 @@
             "symbolic_name": "ls_etc"
         },
         {
-            "command": "/bin/ls -lARkhvX /lib/firmware",
+            "command": "/bin/ls -lanR /lib/firmware",
             "pattern": [],
             "symbolic_name": "ls_lib_fw"
         },
