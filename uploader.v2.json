@@ -2237,3 +2237,4 @@
         "iface": "/sbin/ip -o link | awk -F ': ' '/.*link\\/ether/ {print $2}'"
     },
     "version": "2018-08-16T16:43:00.392674"
+}
